@@ -11,3 +11,5 @@ students.
 - automatic detection of front pages and nonfront pages, using QR code; 
 - robustness for different scanners; 
 - robustness for various image sizes and dots-per-inch configurations.
+
+## Worked on by [Robert Bodley](https://github.com/robertbodley), [Andre Venter](https://github.com/AndreVent) and myself.
